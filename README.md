@@ -59,7 +59,7 @@ A modern Azure Data Engineering solution implementing the Medallion Architecture
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="images/ecommerce_medallion_architecture.png" width="100%">
+  <img src="ecommerce_medallion_architecture.png" width="100%">
 </p>
 
 ### End-to-End Data Flow
