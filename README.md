@@ -300,16 +300,3 @@ Source: UCI Machine Learning Repository
 - Automated Daily Execution
 - Business Analytics Tables
 
----
-
-## 👨‍💻 Author
-
-### Aman Singh
-
-Data Engineering | Azure | Databricks | PySpark | SQL | Delta Lake | Power BI
-
----
-
-<p align="center">
-⭐ If you found this project useful, consider giving it a star.
-</p>
